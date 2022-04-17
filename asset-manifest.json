@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DaimyoDev/StarWarsMovies/static/css/main.8d61d872.css",
+    "main.js": "/DaimyoDev/StarWarsMovies/static/js/main.b20b809f.js",
+    "index.html": "/DaimyoDev/StarWarsMovies/index.html",
+    "main.8d61d872.css.map": "/DaimyoDev/StarWarsMovies/static/css/main.8d61d872.css.map",
+    "main.b20b809f.js.map": "/DaimyoDev/StarWarsMovies/static/js/main.b20b809f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d61d872.css",
+    "static/js/main.b20b809f.js"
+  ]
+}
